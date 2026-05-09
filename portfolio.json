@@ -71,7 +71,32 @@
       "category": "3d",
       "title": "",
       "channel": ""
+    },
+    {
+      "id": "wFk4RCbG9FU",
+      "category": "longform",
+      "title": "",
+      "channel": "Cuackzilla"
+    },
+    {
+      "id": "3MlWOqRrCRg",
+      "category": "longform",
+      "title": "",
+      "channel": "el joven pato $"
     }
   ],
-  "channels": []
+  "channels": [
+    {
+      "name": "Cuackzilla",
+      "url": "https://www.youtube.com/watch?v=wFk4RCbG9FU&t=7s"
+    },
+    {
+      "name": "TBarba",
+      "url": "https://www.youtube.com/@tbarba"
+    },
+    {
+      "name": "LTDG",
+      "url": "https://www.youtube.com/@ltdgoficial"
+    }
+  ]
 }
