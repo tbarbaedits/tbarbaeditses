@@ -276,7 +276,7 @@ function renderChannels(channels) {
         link.target = '_blank';
         link.rel = 'noopener';
         link.innerHTML = `
-            <img src="https://i.ytimg.com/vi/${ch.sampleVideoId || ''}/default.jpg" alt="${ch.name}" onerror="this.style.display='none'">
+            <img src="${ch.avatar || ''}" alt="${ch.name}" onerror="this.style.display='none'">
             <span>${ch.name}</span>
         `;
         grid.appendChild(link);

@@ -49,18 +49,6 @@
       "channel": ""
     },
     {
-      "id": "r6blZ6qFUiM",
-      "category": "3d",
-      "title": "",
-      "channel": ""
-    },
-    {
-      "id": "xMNQDKxYCws",
-      "category": "3d",
-      "title": "",
-      "channel": ""
-    },
-    {
       "id": "sPUiPw43wA0",
       "category": "3d",
       "title": "",
@@ -83,20 +71,71 @@
       "category": "longform",
       "title": "",
       "channel": "el joven pato $"
+    },
+    {
+      "id": "r6blZ6qFUiM",
+      "category": "shorts",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "IlahXHBlEoo",
+      "category": "shorts",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "XrKY7YvYOH8",
+      "category": "shorts",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "xMNQDKxYCws",
+      "category": "shorts",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "JalM_F7ABZA",
+      "category": "shorts",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "Z1ex8YRTgTk",
+      "category": "3d",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "V1gegU00BCY",
+      "category": "3d",
+      "title": "",
+      "channel": ""
+    },
+    {
+      "id": "Ea8YAInD77o",
+      "category": "longform",
+      "title": "",
+      "channel": ""
     }
   ],
   "channels": [
     {
       "name": "Cuackzilla",
-      "url": "https://www.youtube.com/watch?v=wFk4RCbG9FU&t=7s"
+      "url": "https://www.youtube.com/watch?v=wFk4RCbG9FU&t=7s",
+      "avatar": "https://yt3.ggpht.com/5S_gSZiG7iTo2dj--s6UCZJZwPrluaop3UNsFfoMXOEyud6dpCJwjuSQbZnahkWJ1F9tbbVjNAo=s88-c-k-c0x00ffffff-no-rj"
     },
     {
       "name": "TBarba",
-      "url": "https://www.youtube.com/@tbarba"
+      "url": "https://www.youtube.com/@tbarba",
+      "avatar": "https://yt3.ggpht.com/ERU0CABByVPLoNACrm1n570unfMdZsu73yQM1jYpPVngqJZ4v3KNRgUvAvDyMd4-o9-iQPEByO-F=s88-c-k-c0x00ffffff-no-rj"
     },
     {
       "name": "LTDG",
-      "url": "https://www.youtube.com/@ltdgoficial"
+      "url": "https://www.youtube.com/@ltdgoficial",
+      "avatar": "https://yt3.ggpht.com/vPHnA8ET4KPr-cCEnyM9rIuWN3px4rmMN1uMvIyyT40_C8QoO64g7WQzzcTakfNccTKDtiCEPOsDKw=s88-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
