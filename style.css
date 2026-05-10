@@ -855,8 +855,16 @@ img {
 
 .work-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap: 24px;
+}
+
+.work-card:not(.work-card-short) {
+    grid-column: span 3;
+}
+
+.work-card-short {
+    grid-column: span 2;
 }
 
 .work-card {
@@ -918,12 +926,8 @@ img {
 }
 
 .video-wrapper-short {
-    padding-bottom: 177.78%;
-    max-width: 200px;
-    margin: 0 auto;
-}
-
-.work-card-short {
+    padding-bottom: 0;
+    height: 300px;
     max-width: 100%;
 }
 
@@ -2024,7 +2028,15 @@ img {
     }
 
     .work-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .work-card:not(.work-card-short) {
+        grid-column: span 3;
+    }
+
+    .work-card-short {
+        grid-column: span 1;
     }
 
     .tools-grid {
